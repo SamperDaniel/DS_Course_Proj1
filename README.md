@@ -6,7 +6,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using Kaggle 'Airbnb Seattle' dataset to find out:
 1. When is the best time to rent out a flat
-2. Where is the best location and whats the kind of flat to buy for a side business
+2. Where is the best location and whats the kind of flat (location, size, etc.) to buy for a side business
 3. How well is the price of a flat predictable?
 
 ## File Descriptions <a name="files"></a>
